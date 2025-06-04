@@ -1,4 +1,4 @@
-# ml_from_scratch
+# ml-from-scratch
 Analogous to the key algorithms repo, this repo contains key ML models and algorithms implemented from scratch
 
 ## Why ML from scratch?
